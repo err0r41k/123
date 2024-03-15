@@ -1,0 +1,7 @@
+import java.util.Scanner; 
+package _123;
+
+public class Revizor{
+    public void rebrand(Revizor revizor) {
+        String.name = revizor.getName();
+        if 
